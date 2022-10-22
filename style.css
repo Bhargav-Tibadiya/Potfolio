@@ -872,6 +872,9 @@ footer span a, footer span+span
     .navbar .fas.fa-bars
     {
         display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 2px;
     }
 
     .navbar .menu.active
