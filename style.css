@@ -530,6 +530,8 @@ section
 .skill .skill-content .left p
 {
     text-align: justify;
+    font-size: 18px;
+    color: #aaa;
 }
 
 .skill .skill-content .left .text span{
